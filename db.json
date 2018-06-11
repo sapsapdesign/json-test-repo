@@ -3,17 +3,20 @@
    {
     "name": "Will",
     "email": "william@scoop.digital",
-    "dob": "01/01/1980"
+    "dob": "01/01/1980",
+    "password" : 'Will'
    },
   {
    "name": "Jide",
    "email": "jide@scoop.digital",
-   "dob": "02/02/1980"
+   "dob": "02/02/1980",
+   "password" : 'Jide'
   },
   {
    "name": "Richard",
    "email": "richard@scoop.digital",
-   "dob": "03/03/1980"
+   "dob": "03/03/1980",
+   "password" : 'Richard'
   }
 ]
   
